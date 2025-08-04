@@ -14,7 +14,8 @@ I'm Ched — making a career switch from **25+ years in HR** to **data analytics
 - 📈 [**Bellabeat: A Case Study in R**](./Bellabeat_A_Case_Study_in_R.pdf)
   Analyzing smart device data to help guide Bellabeat’s marketing strategy.
 
-- 🐾 **The Bark Side of the Dip: A Post-Pandemic Pup-date**  
+- 🐾 - 🐾 [**The Bark Side of the Dip: A Post-Pandemic Pup-date**](./The_Bark_Side_of_the_Dip_A_Post-Pandemic_Pup-date_in_R.pdf)
+ 
   Examining the drop in daily pet walks post-COVID and its implications.
 
 - 💸 **Paws and Paychecks (In Progress)**  
