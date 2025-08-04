@@ -11,7 +11,7 @@ I'm Ched — making a career switch from **25+ years in HR** to **data analytics
 
 ### 📁 Case Studies
 
-- 📈 **Bellabeat: A Case Study in R**  
+- 📈 [**Bellabeat: A Case Study in R**](./Bellabeat_A_Case_Study_in_R.pdf)
   Analyzing smart device data to help guide Bellabeat’s marketing strategy.
 
 - 🐾 **The Bark Side of the Dip: A Post-Pandemic Pup-date**  
